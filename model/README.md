@@ -1,7 +1,7 @@
-MDN.py: the trained MDN model.
+MDN.py: The trained mixture density networks (MDN) model.
 
-MDN_weights.h5: the weights for the trained MDN model.
+MDN_weights.h5: The weights for the trained MDN model.
 
-ScalableG.py: the trained GAN model.
+ScalableG.py: The trained generative adversarial networks (GAN) model.
 
-weights.pickle: the weights for the trained GAN model.
+weights.pickle: The weights for the trained GAN model.
